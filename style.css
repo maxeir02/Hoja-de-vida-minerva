@@ -1,0 +1,26 @@
+
+header{
+    text-align: right;
+}
+th{
+    border: 1px solid black;
+    padding: 2px;
+    margin: auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: white;
+    border: 2px solid blue;
+    background-color: blue;
+    text-align: center;
+}
